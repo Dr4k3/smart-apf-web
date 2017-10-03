@@ -1,0 +1,17 @@
+{
+  "name": "smart-apf-web",
+  "homepage": "https://github.com/Dr4k3/smart-apf-web",
+  "description": "Front-END do  projeto do cursto de Análise e Desenvolvimento de Sistemas, realizado na FATEC Carapicuiba",
+  "main": "index.html",
+  "authors": [
+    "silas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
